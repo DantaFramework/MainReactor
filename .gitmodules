@@ -1,0 +1,24 @@
+[submodule "AEM"]
+	path = AEM
+	url = git@github.com:DantaFramework/AEM.git
+[submodule "AEMDemo"]
+	path = AEMDemo
+	url = git@github.com:DantaFramework/AEMDemo.git
+[submodule "API"]
+	path = API
+	url = git@github.com:DantaFramework/API.git
+[submodule "Core"]
+	path = Core
+	url = git@github.com:DantaFramework/Core.git
+[submodule "JahiaDF"]
+	path = JahiaDF
+	url = git@github.com:DantaFramework/JahiaDF.git
+[submodule "JahiaDFContentDefinition"]
+	path = JahiaDFContentDefinition
+	url = git@github.com:DantaFramework/JahiaDFContentDefinition.git
+[submodule "JahiaDFDemo"]
+	path = JahiaDFDemo
+	url = git@github.com:DantaFramework/JahiaDFDemo.git
+[submodule "Parent"]
+	path = Parent
+	url = git@github.com:DantaFramework/Parent.git
