@@ -43,6 +43,7 @@
             <id>with-aem</id>
             <modules>
                 <module>AEM</module>
+                <module>AEMBase</module>
                 <module>AEMDemo</module>
             </modules>
         </profile>
