@@ -22,3 +22,6 @@
 [submodule "Parent"]
 	path = Parent
 	url = https://github.com/DantaFramework/Parent.git
+[submodule "AEMBase"]
+	path = AEMBase
+	url = https://github.com/DantaFramework/AEMBase.git
